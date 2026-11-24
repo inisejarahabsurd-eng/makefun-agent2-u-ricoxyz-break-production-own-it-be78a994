@@ -1,0 +1,1 @@
+ERROR: prod is down. i migrated the live db without a dry run and dropped the users table. 47,000 customers see a 500. i had rollback ready and did not use it. no one to blame. deploying confidence: 0%.
